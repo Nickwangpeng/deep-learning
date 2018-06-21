@@ -1,0 +1,3 @@
+{
+  "etl_test_integer.py::TestInteger::test_create_clean_datafile": true
+}
